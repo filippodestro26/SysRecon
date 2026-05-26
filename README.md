@@ -231,4 +231,4 @@ Questo strumento è sviluppato **esclusivamente per scopi didattici** nell'ambit
 
 ## 👤 Autore
 
-**Filippo** — Studente di Cybersecurity
+**Filippo** — Sistemista Junior
